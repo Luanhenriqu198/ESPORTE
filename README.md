@@ -46,3 +46,16 @@ https://idiptv.000webhostapp.com/painel/redir.php?acesso=33041ed3ab81807269abd03
 
 #EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Canais | Infantil",Nickelodeon HD
 https://idiptv.000webhostapp.com/painel/redir.php?acesso=32aef3ad2143fd2f0f5f20aedaf0b174&usuario=f354c19a44cf3e8566c4945ef6fac095
+
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTBG:https://i.imgur.com/CCmedOd.jpg
+http://globalserver.me/ssiptv/get/816208/326436/list_lives/
+
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
+#EXTBG:https://i.imgur.com/U11MBWi.jpg
+http://globalserver.me/ssiptv/get/816208/326436/movie_categories/
+
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES E NOVELAS
+#EXTBG:https://i.imgur.com/5hTLbBl.jpg
+http://globalserver.me/ssiptv/get/816208/326436/serie_categories/
