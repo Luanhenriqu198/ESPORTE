@@ -38,13 +38,10 @@ http://tv.factoryiptv.com:80/cassia123/cassia1234/36943
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO" tvg-logo="" group-title="Canal | Discovery",INVESTIGAÇÃO DISCOVERY
 https://idiptv.000webhostapp.com/painel/redir.php?acesso=13d313b16ffa9ce7537f0ea772912fc2&usuario=f354c19a44cf3e8566c4945ef6fac095
 
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
-http://tv.factoryiptv.com:80/cassia123/cassia1234/36927
-
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/animalplanet2019.png" group-title="CANAIS | DOCUMENTARIOS ", ANIMAL PLANET HD 
 https://idiptv.000webhostapp.com/painel/redir.php?acesso=33041ed3ab81807269abd03b56ecddd0&usuario=f354c19a44cf3e8566c4945ef6fac095
 
-#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Canais | Infantil",Nickelodeon HD
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Canais | infantil",Nickelodeon HD
 https://idiptv.000webhostapp.com/painel/redir.php?acesso=32aef3ad2143fd2f0f5f20aedaf0b174&usuario=f354c19a44cf3e8566c4945ef6fac095
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="Canal | Esportes",PREMIERE CLUBES HD
@@ -281,7 +278,7 @@ http://grtsvk.life:8080/05780287422/35367767275/71374
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
 http://grtsvk.life:8080/05780287422/35367767275/71244
 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
 http://grtsvk.life:8080/05780287422/35367767275/71109
 
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
@@ -347,7 +344,7 @@ http://grtsvk.life:8080/05780287422/35367767275/71458
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="Canais | infantil",CARTOON NETWORK FHD
 http://grtsvk.life:8080/05780287422/35367767275/71080
 
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="Canais| infantil",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="Canais | infantil",CARTOON NETWORK HD
 http://grtsvk.life:8080/05780287422/35367767275/71318
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="Canais | infantil",DISCOVERY KIDS FHD
